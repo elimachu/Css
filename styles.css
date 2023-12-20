@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+
+
+  .title {
+    color:white;
+    background-color: #333;
+    font-size: 3em;
+    border: #333 solid;
+    border-radius: 10%;
+  }
+
+ #title1{
+    text-shadow: 3px 10px 0 yellow;
+    background-image: url(logoOG.png);
+    background-color:black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background background-attachment: scroll;
+    padding: 2em;
+    transition: 1s;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5em;
+    border: 0.5em solid rgb(225, 247, 32);
+    
+    }
+
+
+#title1:hover{
+    background-color: black;
+
+ }
+
+ 
+.puntos{
+
+    color: black;
+    font-weight:900;
+    border: black solid 1em;
+    border-width: medium;
+    margin: 2em;
+    padding: 2em;
+    background-image: url(html2.jpg);
+  
+}
+ .text1{
+    color: black;
+    font-weight:900;
+    text-decoration: underline;
+ }
+
+.Cont{
+    font-family: cursive;
+    
+}
+    
+
